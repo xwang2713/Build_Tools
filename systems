@@ -1,0 +1,24 @@
+10.10.8.11    root        /var/lib/jenkins
+10.10.8.31    root        /var/lib/jenkins
+10.10.8.24    root        /var/lib/jenkins
+10.10.8.9     root        /var/lib/jenkins
+10.10.8.10    root        /var/lib/jenkins              
+10.10.8.19    root        /var/lib/jenkins
+10.176.141.40 hpccbuild   /User/hpccbuild/jenkins
+10.10.8.15    ubuntu      /var/lib/jenkins
+10.10.8.32    ubuntu      /var/lib/jenkins
+10.10.8.4     ubuntu      /var/lib/jenkins
+10.10.8.5     ubuntu      /var/lib/jenkins
+10.10.8.30    ubuntu      /var/lib/jenkins
+10.10.8.37    ubuntu      /var/lib/jenkins
+10.10.8.7     ubuntu      /var/lib/jenkins
+10.10.8.33    ubuntu      /var/lib/jenkins
+10.10.8.41    ubuntu      /var/lib/jenkins
+10.10.8.21    ubuntu      /var/lib/jenkins
+10.10.8.25    ubuntu      /var/lib/jenkins
+10.10.8.45    ubuntu      /var/lib/jenkins
+10.10.8.48    ubuntu      /var/lib/jenkins
+10.10.8.48    ubuntu      /var/lib/jenkins
+10.176.32.17  hpccbuild   d:/Jenkins
+10.176.142.98 hpccbuild   d:/Jenkins
+
